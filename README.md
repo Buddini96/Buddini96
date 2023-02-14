@@ -1,5 +1,7 @@
+[![MasterHead](https://quixy.com/wp-content/uploads/2020/12/GIFing-you-an-Insight-into-No-Code.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Buddini</h1>
 <h3 align="center">A Student of Graduate Diploma in Software Engineering in IJSE</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/846207/screenshots/9192312/office-desk-animation.gif">
 
 - 🔭 I’m currently studying at **Institute of Java Software Engineering**
 
@@ -28,7 +30,9 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Buddini96&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+## Github Status  
+<p><img align="center"><img src="https://github-readme-stats.vercel.app/api?username=Buddini96&show_icons=true&count_private=true&hide_border=true" align="center" /></p>  
 
-<br/>  
+<br/> 
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Buddini96&" alt="Buddini96" /></p>
