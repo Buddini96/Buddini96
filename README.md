@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Web Development and other programming languages**
 
+- 🤓 Always **learning new things**
+
 - ⚡ Fun fact **Food🍔 and Music🎵 are the reasons to live.😉**
 
 - 📫 How to reach me **buddinikl1996@gmail.com**
