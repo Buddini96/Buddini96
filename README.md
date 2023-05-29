@@ -9,7 +9,7 @@
 
 - 🤓 Always **learning new things**
 
-- ⚡ Fun fact **Food 🍔 and Music🎵 are the reasons to live.😉**
+- ⚡ Fun fact **I think I'm funny.🤓😉**
 
 - 📫 How to reach me **buddinikl1996@gmail.com**
 
