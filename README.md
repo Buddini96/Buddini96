@@ -3,15 +3,15 @@
 <h3 align="center">An Undergraduate | BSc (Hons) in Computer Science</h3>
 <img align="right" alt="Coding" width="390" src="https://github.com/Buddini96/Buddini96/blob/main/68747470733a2f2f7777772e646967697361696c6f722e636f6d2f6173736574732f696d672f73657276696365732d64657461696c732f352e676966.gif">
 
-- 🔭 I’m currently studying at **Institute of Java Software Engineering**
+ 🔭 I’m currently doing an internship as a **Frontend Developer at Generation Alpha**
+  
+ 🌱 I’m currently learning **MERN Stack and other programming languages**
 
-- 🌱 I’m currently learning **MERN Stack and other programming languages**
+ 🤓 Always **learning new things**
 
-- 🤓 Always **learning new things**
+ ⚡ Fun fact **I think I'm funny.🤓😉**
 
-- ⚡ Fun fact **I think I'm funny.🤓😉**
-
-- 📫 How to reach me **buddinikl1996@gmail.com**
+ 📫 How to reach me **https://www.linkedin.com/in/buddinipathinayaka/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
