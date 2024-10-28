@@ -1,5 +1,5 @@
 [![MasterHead](https://quixy.com/wp-content/uploads/2020/12/GIFing-you-an-Insight-into-No-Code.png)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Buddini</h1>
+<h1 align="center">Hi 👋, I'm Buddini ( 𝐸𝓁𝒾 💫)</h1>
 <h3 align="center">An Undergraduate | BSc (Hons) in Computer Science</h3>
 <img align="right" alt="Coding" width="390" src="https://github.com/Buddini96/Buddini96/blob/main/68747470733a2f2f7777772e646967697361696c6f722e636f6d2f6173736574732f696d672f73657276696365732d64657461696c732f352e676966.gif">
 
