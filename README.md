@@ -43,7 +43,13 @@
 
 
 <br/>  
+<p align="">
+  <a href="https://skillicons.dev">
+    <img src="https://komarev.com/ghpvc/?username=buddini&label=Profile%20views&color=0e75b6&style=flat" alt="buddini" height="30" />
+  </a>
+</p>
 
+<br/> 
 
 ## Github Status  
 <p><img align="center"><img src="https://github-readme-stats.vercel.app/api?username=Buddini96&show_icons=true&count_private=true&hide_border=true" align="center" /></p>  
