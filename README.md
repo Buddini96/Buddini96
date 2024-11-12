@@ -45,7 +45,7 @@
 <br/>  
 <p align="">
   <a href="https://skillicons.dev">
-    <img src="https://komarev.com/ghpvc/?username=buddini&label=Profile%20views&color=0e75b6&style=flat" alt="buddini" height="30" />
+    <img src="https://komarev.com/ghpvc/?username=buddini&label=Profile%20views&color=0e75b6&style=flat" alt="buddini" height="20" />
   </a>
 </p>
 
