@@ -5,7 +5,7 @@
 
  🔭 I’m currently doing an internship as a **Frontend Developer at Generation Alpha**
   
- 🌱 I’m currently learning **MERN Stack and other programming languages**
+ 🌱 I’m currently learning **Nothing 🤐👻**
 
  🤓 Always **learning new things**
 
